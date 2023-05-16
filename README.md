@@ -1,4 +1,4 @@
-### hi, my name is huangjiyi. :smile_cat:	
+### Hi :smile_cat:	
 
 <!--
 **huangjiyi/huangjiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
